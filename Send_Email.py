@@ -22,3 +22,5 @@ def Send_Email(subject, msg):
 
 subject = "Test Python Script"
 msg = "Python script successfully emailed"
+
+Send_Email(subject, msg)
